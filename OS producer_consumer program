@@ -101,6 +101,14 @@ int main()
                 }
                 break;
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  1,35          Top
+                case 3:
+                   exit(0);
+                    break; 
+               }
+           }
+       }
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 
