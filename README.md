@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarshbelnekar</h1>
-<h3 align="center">I am here for learning the new thing From Github.I from India</h3>
+<h3 align="center">I am here for learning the new thing From Github.I am from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshbelnekar&label=Profile%20views&color=0e75b6&style=flat" alt="adarshbelnekar" /> </p>
 
