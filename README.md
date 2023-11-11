@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adarsh Belnekar
+Hi ![](https://media.tenor.com/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif)My name is Adarsh Belnekar
 =======================================================================================================================================
 
-I am here for explore the new thing from github.
+I am here for explore the new thing from github <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 * 🌍  I'm based in India
 * 🧠  I'm learning Cloud Computing
@@ -27,6 +27,9 @@ I am here for explore the new thing from github.
 <a href="http://www.github.com/AdarshBelnekar"><img src="https://github-readme-stats.vercel.app/api?username=AdarshBelnekar&show_icons=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdarshBelnekar's GitHub stats" /></a>
 
 <a href="http://www.github.com/AdarshBelnekar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshBelnekar&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdarshBelnekar&theme=dark)](https://git.io/streak-stats)
+
 
 ### Support Me
 
