@@ -35,6 +35,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshBelnekar&show_icons=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=f97316&locale=en&layout=compact&bg_color=1c1917" alt="AdarshBelnekar" /></p>
 
-<a href="http://www.github.com/AdarshBelnekar"><img src="https://github-readme-stats.vercel.app/api?username=AdarshBelnekar&show_icons=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdarshBelnekar's GitHub stats" /></a>
 
 
