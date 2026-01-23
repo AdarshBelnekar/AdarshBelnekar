@@ -4,7 +4,7 @@
 
   
 * I am here for explore the new thing from github <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-* 🌍  I'm based in India
+* I'm based in  🌍 India
 
 
 ## 🚀 Skills:
